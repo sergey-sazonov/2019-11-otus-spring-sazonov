@@ -1,6 +1,6 @@
 package ru.otus.sazonov.repository.testConnect.impl;
 
-import lombok.Data;
+import lombok.Data ;
 import org.springframework.jdbc.core.JdbcOperations;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
